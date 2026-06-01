@@ -15,7 +15,7 @@ Experience
 Automating Azure infrastructure with Terraform and GitHub Actions CI/CD for an internal LMS within a Microsoft Partner environment.
 
 **● DevOps Engineer Intern @ HNG Tech (Cohort 14)**  
-Built and shipped real infrastructure across 5 progressive stages — from Linux hardening and containerization to anomaly detection and policy-gated deployment tooling.  
+Built and shipped real infrastructure across 5 progressive stages, from Linux hardening and containerization to anomaly detection and policy-gated deployment tooling.  
 → [github.com/kloud-wiz/hng14-devops-journey](https://github.com/kloud-wiz/hng14-devops-journey) 
 
 Skills & Tools
