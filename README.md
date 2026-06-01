@@ -33,28 +33,31 @@ Skills & Tools
 » Observability: Prometheus, Structured Logging  
 » OS:            Linux (Ubuntu), Windows Server  
 
-Featured Projects
+### Featured Projects
+
 ---
 
-● Kloudwiz SwiftDeploy - Declarative CLI with OPA Policy Gating  
-  ✦ CLI tool that generates Nginx and Docker Compose configs from a single  
-    manifest.yaml using Jinja2 templates. Enforces pre-deploy and pre-promote  
-    policy gates via Open Policy Agent (Rego), exposes Prometheus metrics,  
-    and produces a structured audit trail with auto-generated reports.  
-  ✦ Link: https://github.com/kloud-wiz/hng14-stage4a-swiftdeploy  
+**● Kloudwiz SwiftDeploy — Declarative CLI with OPA Policy Gating**  
+*CLI tool that generates Nginx and Docker Compose configs from a single manifest.yaml using*  
+*Jinja2 templates. Enforces pre-deploy and pre-promote policy gates via Open Policy Agent (Rego),*  
+*exposes Prometheus metrics, and produces a structured audit trail with auto-generated reports.*  
+→ [github.com/kloud-wiz/hng14-stage4a-swiftdeploy](https://github.com/kloud-wiz/hng14-stage4a-swiftdeploy)
 
-● Real-Time DDoS Anomaly Detection Engine  
-  ✦ Built from scratch in Python, features a sliding window rate tracking, Z-score  
-    statistical detection, automatic iptables kernel-level blocking with  
-    progressive backoff, Slack alerts, and a live Flask metrics dashboard.  
-    Deployed as a Docker sidecar on GCP during HNG14.  
-  ✦ Link: https://github.com/kloud-wiz/hng14-stage3-anomaly-detector  
+---
 
-● Cloud Resume Challenge - Azure Edition  
-  ✦ Serverless resume platform built on Azure Functions (Python), Cosmos DB,  
-    and static hosting, with Terraform IaC, remote state in Azure Blob Storage,  
-    and Cloudflare for CDN, SSL, and WAF. Live at $0/month operational cost.  
-  ✦ Link: https://github.com/kloud-wiz/cloud-resume-challenge-azure  
+**● Real-Time DDoS Anomaly Detection Engine**  
+*Built from scratch in Python — sliding window rate tracking, Z-score statistical detection,*  
+*automatic iptables kernel-level blocking with progressive backoff, Slack alerts, and a live*  
+*Flask metrics dashboard. Deployed as a Docker sidecar on GCP during HNG14.*  
+→ [github.com/kloud-wiz/hng14-stage3-anomaly-detector](https://github.com/kloud-wiz/hng14-stage3-anomaly-detector)
+
+---
+
+**● Cloud Resume Challenge — Azure Edition**  
+*Serverless resume platform built on Azure Functions (Python), Cosmos DB, and static hosting,*  
+*with Terraform IaC, remote state in Azure Blob Storage, and Cloudflare for CDN, SSL, and WAF.*  
+*Live at $0/month operational cost.*  
+→ [github.com/kloud-wiz/cloud-resume-challenge-azure](https://github.com/kloud-wiz/cloud-resume-challenge-azure)
 
 
 Let's connect
