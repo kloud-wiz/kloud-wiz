@@ -1,13 +1,13 @@
-# WISDOM EMMANUEL
+# WISDOM EMMANUEL  
 ---------------------  
-Cloud & DevOps Engineer.
-Driven by problem solving, designing systems that shouldn't break,
+Cloud & DevOps Engineer.  
+Driven by problem solving, designing systems that shouldn't break,  
 and figuring out why they do when they do.  
 
 Philosophy
 > _The end goal of everything we do is to solve a problem. Once the problem is truly understood,
 > the engineering becomes clear. I've come to realise that technical jargon is just buzz words,
-> and tools are just enablers.
+> and tools are just enablers._
 
 Experience
 ---
