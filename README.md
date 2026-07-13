@@ -4,7 +4,7 @@ UI Developer, applying Cloud & DevOps skills.
 Driven by problem solving, enjoys understanding how systems behave, identifying failure points,  
 and building infrastructure that works reliably without manual intervention.  
 <br>
-> _"The end goal of everything we do is to solve a problem. Once the problem is truly understood,
+> _"I believe the end goal of everything we do is to solve a problem. Once the problem is truly understood,
 > the engineering becomes clear. I've come to realise that technical jargon is just buzz words,
 > and tools are just enablers."_
 
