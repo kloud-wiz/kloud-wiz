@@ -1,6 +1,6 @@
 WISDOM EMMANUEL    
 ---  
-Cloud & DevOps Engineer.  
+UI Developer, applying Cloud & DevOps skills.  
 Driven by problem solving, enjoys understanding how systems behave, identifying failure points,  
 and building infrastructure that works reliably without manual intervention.  
 <br>
@@ -11,18 +11,23 @@ and building infrastructure that works reliably without manual intervention.
 Experience
 ---
 
-**● UI Developer (Cloud & Solutions Support) @ Reliance Infosystems Limited**  
-Automating Azure infrastructure with Terraform and GitHub Actions CI/CD for an internal LMS within a Microsoft Partner environment.
+**● UI Developer @ Reliance Infosystems Limited**  
+Lead UI/UX across multiple projects, covering design decisions and product
+experience as well as contributing to the frontend build itself, not just handing off mockups.
+Beyond core UX/frontend responsibilities, provisioned Azure Static Web App and App Service infrastructure
+via Terraform in a development environment for an internal LMS project's frontend and API.
 
-**● DevOps Engineer Intern @ HNG Tech (Cohort 14)**  
-Built and shipped real infrastructure across 5 progressive stages, from Linux hardening and containerization to anomaly detection and policy-gated deployment tooling.  
+**● HNG Tech Cohort 14 - DevOps Track**  
+Built and shipped infrastructure independently across 5 progressive stages — Linux hardening,
+containerization, anomaly detection, and policy-gated deployment tooling. Completed through
+Stage 5 (Certificate of Participation).  
 → [github.com/kloud-wiz/hng14-devops-journey](https://github.com/kloud-wiz/hng14-devops-journey) 
 
 Skills & Tools
 ---
 
-» **Cloud** - Azure, AWS, GCP  
-» **IaC & CI/CD** - Terraform, GitHub Actions, Azure DevOps  
+» **Cloud** - Azure, AWS  
+» **IaC & CI/CD** - Terraform, GitHub Actions  
 » **Containers** - Docker, Docker Compose, Nginx  
 » **Scripting** - Python, Bash, JavaScript  
 » **Security** - IAM, Azure RBAC, Cloudflare WAF  
@@ -39,12 +44,12 @@ exposes Prometheus metrics, and produces a structured audit trail with auto-gene
 → [github.com/kloud-wiz/hng14-stage4a-swiftdeploy](https://github.com/kloud-wiz/hng14-stage4a-swiftdeploy)
 
 **● Real-Time DDoS Anomaly Detection Engine**  
-Built from scratch in Python, featuring a sliding window rate tracking, Z-score statistical detection,  
+Built from scratch in Python - sliding window rate tracking, Z-score statistical detection,  
 automatic iptables kernel-level blocking with progressive backoff, Slack alerts, and a live  
 Flask metrics dashboard. Deployed as a Docker sidecar on GCP during HNG14.  
 → [github.com/kloud-wiz/hng14-stage3-anomaly-detector](https://github.com/kloud-wiz/hng14-stage3-anomaly-detector)
 
-**● Cloud Resume Challenge — Azure Edition**  
+**● Cloud Resume Challenge - Azure Edition**  
 Serverless resume platform built on Azure Functions (Python), Cosmos DB, and static hosting,  
 with Terraform IaC, remote state in Azure Blob Storage, and Cloudflare for CDN, SSL, and WAF.  
 Live at $0/month operational cost.  
@@ -59,11 +64,9 @@ Let's connect
 » Email → emmanuelwisdom95@gmail.com
 
 ------------------------------------  
-I write about what I build at [kloudwiz.hashnode.dev](https://kloudwiz.hashnode.dev) - architecture decisions, trade-offs, lessons learned,
-and the realities of building production systems.
+I write about what I'm learning and building at [kloudwiz.hashnode.dev](https://kloudwiz.hashnode.dev) —
+architecture decisions, trade-offs, and the honest process of figuring things out.
 
-Certified: AZ-104, AZ-900, AI-900, AWS CLF-C02
-Currently pursuing AZ-305.
+Certified: AZ-104, AWS CLF-C02. Currently pursuing AZ-305.
 
-Always interested in conversations around cloud infrastructure, DevOps automation, platform engineering,
-and building resilient systems.
+Always up for conversations on cloud infrastructure, DevOps automation, and platform engineering.
